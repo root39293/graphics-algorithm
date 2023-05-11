@@ -7,7 +7,7 @@ Graphical implementation of mid point algorithm and translation function using p
 ## Table of Contents
 
 - [Installation](#installation)
-- [Screenshot](#scrennshot)
+- [Screenshot](#ScreenShot)
 
 ## Installation
 
