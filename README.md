@@ -27,7 +27,8 @@ pip install pygame
 
 ## ScreenShot
 
-![2](https://github.com/root39293/graphics-algorithm/assets/72300594/f06fdfa6-2552-4f46-95bf-10abfdba9769)
-![1](https://github.com/root39293/graphics-algorithm/assets/72300594/6e0f1404-c9ff-430c-9f05-98ecdcd7d21a)
+![캡처2](https://github.com/root39293/yugpt/assets/72300594/b5381eee-ee5a-488f-9a38-8f17503761ed)
+![캡처](https://github.com/root39293/yugpt/assets/72300594/1e99d30b-31c9-411d-a389-ca2023d6180a)
+
 
 
